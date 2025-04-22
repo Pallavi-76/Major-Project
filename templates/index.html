@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parkinsons Disease Prediction</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body style="background-image: url('static/img.jpg');background-repeat: no-repeat;background-size: cover;">
+    <div class="container">
+        <br>
+        <br>
+        <h1>Parkinson's Disease Detection for Spiral and Wave Images</h1>
+        <form action="/predict" method="POST" enctype="multipart/form-data">
+            <label for="image_type">Select Image Type:</label>
+            <select name="image_type" id="image_type" required>
+                <option value="spiral">Spiral</option>
+                <option value="wave">Wave</option>
+            </select>
+            <br><br>
+            <label for="image">Upload Image:</label>
+            <input type="file" name="image" id="image" accept="image/*" required>
+            <br><br>
+            <button type="submit">Predict</button>
+        </form>
+    </div>
+</body>
+</html>
