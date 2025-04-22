@@ -56,3 +56,5 @@ Click here to download dataset [here](https://www.kaggle.com/datasets/kmader/par
 2. **Access the webpage**
    Open the browser and go to `http://127.0.0.1:5000` to use the web application
    
+## Project Ouput Images
+   
