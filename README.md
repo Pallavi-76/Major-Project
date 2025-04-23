@@ -57,4 +57,13 @@ Click here to download dataset [here](https://www.kaggle.com/datasets/kmader/par
    Open the browser and go to `http://127.0.0.1:5000` to use the web application
    
 ## Project Ouput Images
+1.Home page of the application[here](https://drive.google.com/file/d/1cbWttV0nYqDjCLEmFBCl5Iqlzf1tfD0j/view?usp=drivesdk)
+
+2.Result when spiral image is healthy[here](https://drive.google.com/file/d/1cbpvcI4o19F4H86YqyMNBs4bk--8E1aG/view?usp=drivesdk)
+
+3.Result when spiral image is parkinson[here](https://drive.google.com/file/d/1cbxLHfjloa1cZ-GXRbrXpQ2UBIlniMUp/view?usp=drivesdk)
+
+4.Result when wave image is healthy[here](https://drive.google.com/file/d/1cffKqXNpHJFqQ_2emOGbPKp0rWs0aabN/view?usp=drivesdk)
+
+5.Result when wave image is parkinson[here](https://drive.google.com/file/d/1cjXu01H3yoLDjaAlrU3vq1VzYSKTBd2j/view?usp=drivesdk)
    
