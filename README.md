@@ -3,7 +3,7 @@
 This project aims to develop a Deep Learning model that analyzes spiral and wave drawings to detect Parkinson’s Disease by identifying subtle motor impairments such as tremors and irregularities.
 ## Tech Stack
 - Backend: Python, Flask
-- Frontend: Html, CSS, Javascript
+- Frontend: Html, CSS
 - Models: CNN, DenseNet201, ResNet101
 ## Prerequisites
 - Python 3.11 or higher
